@@ -10,7 +10,6 @@
 ### 👤 About Me
 - 🐻‍❄️ **Junior Developer**
 - 🚀💻 I want to improve myself in coding. 
----
 
 ### 🔧 **Tech Stack**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
