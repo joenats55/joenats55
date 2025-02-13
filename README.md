@@ -8,7 +8,7 @@
 </p>
 
 ### 👤 About Me
-- 🐻‍❄️ **Developer**
+- 🐻‍❄️ **Junior Developer**
 - 🚀💻 I want to improve myself in coding. 
 
 ### 🔧 **Tech Stack**
