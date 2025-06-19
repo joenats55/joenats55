@@ -13,9 +13,7 @@
 
 ## Tech Stack
 
-### Frontend
-<div align="center">
-  
+<div align="center">  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
@@ -24,8 +22,6 @@
 
 </div>
 
-
-### Backend & Database
 <div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -37,7 +33,6 @@
 
 </div>
 
-### Tools & Others
 <div align="center">
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
