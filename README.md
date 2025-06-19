@@ -11,9 +11,9 @@
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
-### 🖥️ Frontend
+### Frontend
 <div align="center">
   
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
@@ -24,9 +24,8 @@
 
 </div>
 
----
 
-### 🗄️ Backend & Database
+### Backend & Database
 <div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -38,9 +37,7 @@
 
 </div>
 
----
-
-### ⚙️ Tools & Others
+### Tools & Others
 <div align="center">
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -49,8 +46,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
-
----
 
 ### 📫 Let's Connect!
 You can reach me through future social links or portfolio here 🚧 *(coming soon)*
