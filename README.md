@@ -49,7 +49,6 @@
 
 </p>
 
----
 <h4 align="left">Systems</h4>
 
 <pre>
@@ -57,6 +56,3 @@ web → api → db → device → sensor
 vision → edge → server → ui
 deploy → monitor → scale
 </pre>
-
-
-```
