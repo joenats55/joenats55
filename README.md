@@ -7,7 +7,7 @@
 
 ---
 
-### About
+## About
 
 * System-focused developer
 * Full-stack → Backend → IoT → Deployment
@@ -16,7 +16,7 @@
 
 ---
 
-### Stack
+## Stack
 
 <p align="left">
 
@@ -48,7 +48,7 @@
 
 ---
 
-### Systems I Like Building
+## Systems I Like Building
 
 ```txt
 Web dashboard ↔ API ↔ Database ↔ Device ↔ Sensor
