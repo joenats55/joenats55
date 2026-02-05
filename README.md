@@ -1,5 +1,5 @@
-<h4 align="center">iBrem</h4>
-<p align="center">Full-Stack • Systems • IoT • Vision</p>
+<h4 align="left">iBrem</h4>
+<p align="left">Full-Stack • Systems • IoT • Vision</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=450&lines=Build+systems+that+actually+run;Web+%2B+API+%2B+Hardware;Next.js+%2F+Node.js+%2F+IoT+%2F+CV" />
@@ -55,23 +55,8 @@ Web dashboard ↔ API ↔ Database ↔ Device ↔ Sensor
 Vision model ↔ Edge device ↔ Server ↔ UI
 ```
 
----
-
-### Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=iBrem&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iBrem&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
-
-<p align="center">
-  <i>build → break → fix → scale</i>
-</p>
