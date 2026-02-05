@@ -2,7 +2,7 @@
 <p align="left">Full-Stack • Systems • IoT • Vision</p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=450&lines=Build+systems+that+actually+run;Web+%2B+API+%2B+Hardware;React+%2F+Node.js+%2F+IoT+%2F+CV" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=520&lines=Build+systems+that+actually+run;Web+%2B+API+%2B+Database+%2B+Device;React+%2F+Node+%2F+IoT+%2F+Vision+Engineer" />
 </p>
 
 ---
@@ -11,48 +11,58 @@
 
 <p align="left">
 <sub>
-• สนใจ <b>Full-Stack, System Architecture, IoT</b><br/>
-• ชอบสร้างระบบที่เชื่อมต่อกันจริง Web ↔ API ↔ Database ↔ Device<br/>
-• โฟกัส: React • Node.js • PostgreSQL • Vision • Deployment<br/>
-• เป้าหมาย: build systems ที่ใช้งานและ scale ได้จริง
+• สนใจ <b>Full-Stack • System Architecture • IoT</b><br/>
+• สร้างระบบที่ต่อกันจริงตั้งแต่ UI → Device → Sensor<br/>
+• โฟกัส: Systems that run in production<br/>
+• เป้าหมาย: build scalable + real-world systems
 </sub>
 </p>
 
-
-<h4 align="left"> Stack</h4>
+<h4 align="left">Stack</h4>
 
 <p align="left">
 
 <!-- FRONT -->
-
-<a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="28"/></a> <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="28"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28"/></a> <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="28"/></a> <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="28"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="28"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="28"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="28"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="28"/></a>
+<a href="#"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="28"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="28"/></a>
 
 <!-- BACK -->
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="28"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="28"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="28"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="28"/></a>
 
-<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="28"/></a> <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28"/></a> <a href="https://www.lua.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="28"/></a> <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="28"/></a>
+<!-- DB / ORM -->
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="28"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="28"/></a>
+<a href="#"><img src="https://www.svgrepo.com/show/354210/prisma.svg" width="28"/></a>
 
-<!-- DB -->
+<!-- AI / VISION -->
+<a href="#"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="28"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="28"/></a>
 
-<a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="28"/></a> <a href="https://www.mysql.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="28"/></a>
-
-<!-- AI -->
-
-<a href="https://opencv.org"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="28"/></a> <a href="https://github.com/ultralytics/yolov5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="28"/></a>
-
-<!-- DEVOPS -->
-
-<a href="https://www.docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="28"/></a> <a href="https://git-scm.com"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="28"/></a> <a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="28"/></a>
+<!-- TOOLS -->
+<a href="#"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="28"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="28"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="28"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="28"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="28"/></a>
 
 <!-- IOT -->
-
-<a href="https://www.arduino.cc"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="28"/></a>
+<a href="#"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="28"/></a>
 
 </p>
 
 <h4 align="left">Systems</h4>
 
 <pre>
-web → api → db → device → sensor
+frontend → api → service → db → device → sensor
 vision → edge → server → ui
-deploy → monitor → scale
+docker → deploy → monitor → scale
 </pre>
