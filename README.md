@@ -50,25 +50,13 @@
 </p>
 
 ---
-<h4 align="left">Systems I Like Building</h4>
+<h4 align="left">Systems</h4>
 
-<p align="left">
-<sub>
+<pre>
+web → api → db → device → sensor
+vision → edge → server → ui
+deploy → monitor → scale
+</pre>
 
-<b>Full-Stack + IoT Pipeline</b><br/>
-Web Dashboard → API → Database → Edge Device → Sensors
-
-<br/>
-
-<b>Computer Vision Pipeline</b><br/>
-Camera → Vision Model → Edge Device → Server → UI
-
-<br/>
-
-<b>Deployment Flow</b><br/>
-Device → Gateway → Cloud → Dashboard → Monitoring
-
-</sub>
-</p>
 
 ```
