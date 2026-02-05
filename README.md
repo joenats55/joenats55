@@ -8,14 +8,16 @@
 ---
 
 <h4 align="left">About</h4>
+
 <p align="left">
-  <sub>
-    * สนใจด้าน **Full-Stack, System Architecture, IoT**
-    * ชอบสร้างระบบที่เชื่อมต่อกันจริง Web ↔ API ↔ Database ↔ Device
-    * โฟกัส: React • Node.js • PostgreSQL • Vision • Deployment
-    * เป้าหมาย: build systems ที่ใช้งานและ scale ได้จริง
-  </sub>
+<sub>
+• สนใจ <b>Full-Stack, System Architecture, IoT</b><br/>
+• ชอบสร้างระบบที่เชื่อมต่อกันจริง Web ↔ API ↔ Database ↔ Device<br/>
+• โฟกัส: Next.js • Node.js • PostgreSQL • Vision • Deployment<br/>
+• เป้าหมาย: build systems ที่ใช้งานและ scale ได้จริง
+</sub>
 </p>
+
 
 <h4 align="left"> Stack</h4>
 
