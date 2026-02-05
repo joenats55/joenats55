@@ -1,74 +1,104 @@
 <!-- README.md -->
 
-<h1 align="center">👋 สวัสดีครับ ผมคือ <span style="color:#38B2AC;">iBrem</span>!</h1>
+<h1 align="center">Hi, I'm <span style="color:#38B2AC;">iBrem</span> 👋</h1>
+
+<p align="center">
+  Full-Stack Developer • System Builder • IoT Explorer  
+</p>
 
 <p align="center">
   <img src="https://piskel-imgstore-b.appspot.com/img/713666b3-e847-11ef-a766-a12cb93d4935.gif" 
-       width="160" height="160" alt="Profile Picture" style="border-radius: 50%;">
+       width="150" height="150" style="border-radius:50%;" />
 </p>
 
 <p align="center">
-  🐻‍❄️ <b>Junior Developer</b> ที่ชอบสร้างอะไรเจ๋ง ๆ ด้วยโค้ด <br/>
-  🚀 กำลังพัฒนา skill แบบ <b>Full-Stack</b> อย่างต่อเนื่อง
+  ผมเป็นนักพัฒนาที่ชอบสร้างระบบจริง ๆ ที่ใช้งานได้  
+  ตั้งแต่ Web App → Backend → IoT → Deployment  
 </p>
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 About Me
 
-### 🌐 Frontend
-<div align="center">
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-</div>
+* 🧠 สนใจ **Full-Stack + System Architecture**
+* ⚙️ ชอบทำระบบที่เชื่อม
+  Web • API • Database • Hardware
+* 🔬 กำลังโฟกัสที่
+  **Next.js / Node.js / PostgreSQL / IoT / DevOps**
+* 📈 เป้าหมาย: สร้างโปรเจกต์ที่ scale ได้จริง
 
 ---
 
-### ⚙️ Backend & Database
-<div align="center">
+# 🧰 Tech Stack
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+## Frontend
 
-</div>
+<p align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge\&logo=next.js)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge\&logo=react)
+![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge\&logo=tailwindcss)
+![JS](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge\&logo=javascript)
+
+</p>
+
+## Backend
+
+<p align="center">
+
+![Node](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge\&logo=node.js)
+![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge\&logo=prisma)
+![Postgres](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge\&logo=postgresql)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge\&logo=php)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge\&logo=python)
+
+</p>
+
+## Dev & Tools
+
+<p align="center">
+
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge\&logo=docker)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge\&logo=git)
+![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge\&logo=arduino)
+![VSCode](https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge\&logo=visualstudiocode)
+
+</p>
 
 ---
 
-### 🧰 Tools & DevOps
-<div align="center">
+# 🧪 Current Focus
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
+```txt
+• Building real-world full-stack systems
+• IoT + Web dashboard integration
+• VPS deployment & security
+• Clean architecture
+```
 
 ---
 
-### 📈 GitHub Stats (Optional)
+# 📊 GitHub Stats
 
-<details>
-  <summary>📊 Click to view GitHub Stats</summary>
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=iBrem&show_icons=true&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iBrem&layout=compact&theme=radical" />
-  </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iBrem&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iBrem&layout=compact&theme=tokyonight" />
+</p>
 
-</details>
+---
+
+# 📫 Contact
+
+<p align="center">
+
+* GitHub: [https://github.com/iBrem](https://github.com/iBrem)
+* Portfolio: (ใส่ลิงก์ทีหลังได้)
+* Email: (optional)
+
+</p>
 
 ---
 
 <p align="center">
-  💡 <i>"Keep building, keep learning. Stay curious!"</i>
+  <i>Build. Break. Fix. Improve. Repeat.</i>
 </p>
