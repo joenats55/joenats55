@@ -22,7 +22,7 @@
 
 <p align="left">
 
-<!-- FRONT -->
+<!-- FRONT / UI -->
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="28"/></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="28"/></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28"/></a>
@@ -30,20 +30,21 @@
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="28"/></a>
 <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="28"/></a>
 <a href="#"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="28"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="28"/></a>
 
-<!-- BACK -->
+<!-- BACKEND -->
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="28"/></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="28"/></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28"/></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="28"/></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="28"/></a>
 
-<!-- DB / ORM -->
+<!-- DATABASE / ORM -->
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="28"/></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="28"/></a>
 <a href="#"><img src="https://www.svgrepo.com/show/354210/prisma.svg" width="28"/></a>
 
-<!-- AI / VISION -->
+<!-- VISION / AI -->
 <a href="#"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="28"/></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="28"/></a>
 
