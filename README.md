@@ -2,7 +2,7 @@
 <p align="left">Full-Stack • Systems • IoT • Vision</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=450&lines=Build+systems+that+actually+run;Web+%2B+API+%2B+Hardware;Next.js+%2F+Node.js+%2F+IoT+%2F+CV" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=450&lines=Build+systems+that+actually+run;Web+%2B+API+%2B+Hardware;React+%2F+Node.js+%2F+IoT+%2F+CV" />
 </p>
 
 ---
