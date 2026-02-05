@@ -13,7 +13,7 @@
 <sub>
 • สนใจ <b>Full-Stack, System Architecture, IoT</b><br/>
 • ชอบสร้างระบบที่เชื่อมต่อกันจริง Web ↔ API ↔ Database ↔ Device<br/>
-• โฟกัส: Next.js • Node.js • PostgreSQL • Vision • Deployment<br/>
+• โฟกัส: React • Node.js • PostgreSQL • Vision • Deployment<br/>
 • เป้าหมาย: build systems ที่ใช้งานและ scale ได้จริง
 </sub>
 </p>
@@ -50,8 +50,25 @@
 </p>
 
 ---
-<h4 align="left"> Systems I Like Building</h4>
-```txt
-Web dashboard ↔ API ↔ Database ↔ Device ↔ Sensor
-Vision model ↔ Edge device ↔ Server ↔ UI
+<h4 align="left">Systems I Like Building</h4>
+
+<p align="left">
+<sub>
+
+<b>Full-Stack + IoT Pipeline</b><br/>
+Web Dashboard → API → Database → Edge Device → Sensors
+
+<br/>
+
+<b>Computer Vision Pipeline</b><br/>
+Camera → Vision Model → Edge Device → Server → UI
+
+<br/>
+
+<b>Deployment Flow</b><br/>
+Device → Gateway → Cloud → Dashboard → Monitoring
+
+</sub>
+</p>
+
 ```
