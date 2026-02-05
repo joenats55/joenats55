@@ -54,9 +54,3 @@
 Web dashboard ↔ API ↔ Database ↔ Device ↔ Sensor
 Vision model ↔ Edge device ↔ Server ↔ UI
 ```
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
