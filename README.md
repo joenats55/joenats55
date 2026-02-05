@@ -7,16 +7,17 @@
 
 ---
 
-## About
-
-* System-focused developer
-* Full-stack → Backend → IoT → Deployment
-* สนใจ architecture ที่ใช้จริง
-* ทำของที่ต่อกับโลกจริง ไม่ใช่แค่ demo
+<h4 align="left">About</h4>
+<sub>
+* สนใจด้าน **Full-Stack, System Architecture, IoT**
+* ชอบสร้างระบบที่เชื่อมต่อกันจริง
+  Web ↔ API ↔ Database ↔ Device
+* โฟกัส: React • Node.js • PostgreSQL • Vision • Deployment
+* เป้าหมาย: build systems ที่ใช้งานและ scale ได้จริง
+</sub>
 
 ---
-
-## Stack
+<h4 align="left"> Stack</h4>
 
 <p align="left">
 
@@ -47,9 +48,7 @@
 </p>
 
 ---
-
-## Systems I Like Building
-
+<h4 align="left"> Systems I Like Building</h4>
 ```txt
 Web dashboard ↔ API ↔ Database ↔ Device ↔ Sensor
 Vision model ↔ Edge device ↔ Server ↔ UI
