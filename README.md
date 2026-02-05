@@ -1,7 +1,7 @@
-<h3 align="left">Hi 👋, I'm iBrem</h1>
+<h3 align="left">Hi 👋, I'm iBrem</h3>
 <h3 align="left">Developer • System Builder • IoT Explorer </h3>
 
-<h4 align="left">About Me</h3>
+<h3 align="left">About Me</h3>
 * 🧠 สนใจ **Full-Stack + System Architecture**
 * ⚙️ ชอบทำระบบที่เชื่อม
   Web • API • Database • Hardware
