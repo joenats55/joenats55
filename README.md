@@ -1,4 +1,4 @@
-<h2 align="center">iBrem</h2>
+<h4 align="center">iBrem</h4>
 <p align="center">Full-Stack • Systems • IoT • Vision</p>
 
 <p align="center">
@@ -60,8 +60,8 @@ Vision model ↔ Edge device ↔ Server ↔ UI
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iBrem&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iBrem&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=iBrem&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iBrem&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150"/>
 </p>
 
 ---
